@@ -1,4 +1,4 @@
 # apanacollege-demo
 This is my first Repository
 <br>
-Author - Devasathish
+Author - Devasathish (Kanchu)
